@@ -17,5 +17,5 @@ Extractron uses the following open source components:
 [Crow](https://github.com/ipkn/crow)   
 [Boost](https://www.boost.org) 
 
-The source code for extractron may be obtained by sending an email to [mailto::software@noiiz.com](software@noiiz.com)
+The source code for extractron may be obtained by sending an email to [software@noiiz.com](mailto::software@noiiz.com)
 
